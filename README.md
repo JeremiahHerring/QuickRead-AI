@@ -10,7 +10,7 @@ You can access the Web Content AI Summarizer online without the need to install 
 1. **Access the Web Application**:
 
    - Open your web browser.
-   - Visit the deployed application on Netlify at [Your-App-URL](https://your-app-url-here).
+   - Visit the deployed application on Netlify at [[Your-App-URL]([https://your-app-url-here](https://quickreadai.netlify.app/)).](https://quickreadai.netlify.app/)
 
 2. **Using the Web Application**:
 
