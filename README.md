@@ -15,7 +15,7 @@ You can access the Web Content AI Summarizer online without the need to install 
 2. **Using the Web Application**:
 
    - To summarize a web page, simply paste the URL of the website you want to summarize into the input field.
-   - For ease of access, you can use this as a demo link: https://time.com/6266679/musk-ai-open-letter
+   - For ease of access, you can paste this URL as a demo link: https://time.com/6266679/musk-ai-open-letter
    - Click the "Search" button.
    - Wait a few seconds for the summarization process to complete. The application will retrieve and summarize the content from the provided URL.
 
