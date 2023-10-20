@@ -20,8 +20,9 @@ You can access the Web Content AI Summarizer online without the need to install 
    - Wait a few seconds for the summarization process to complete. The application will retrieve and summarize the content from the provided URL.
 
    **Note**: If there is not enough content on the site you are trying to summarize, you may run into an error. Ensure that the website you want to summarize has sufficient textual content for accurate summarization.
+   **Note**: If you run into a 500 error, there is likely an issue with the network. The program doesn't seem to function correctly on some restricted internet networks.
 
-3. **Enjoy!** Thank you for using our web content AI summarizer. We hope you find it helpful for quickly obtaining summaries of web content.
+4. **Enjoy!** Thank you for using our web content AI summarizer. We hope you find it helpful for quickly obtaining summaries of web content.
 
 ## Contributing
 
